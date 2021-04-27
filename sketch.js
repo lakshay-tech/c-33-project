@@ -5,7 +5,7 @@ var Engine = Matter.Engine,
  
 var particles = [];
 var plinkos = [];
-
+var divisions = [];
 var divisionHeight=300;
 var score =0;
 function setup() {
